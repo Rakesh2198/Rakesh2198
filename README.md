@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rakesh
-- 👀 I’m interested in Developing the web apps and Web Development.
+- 👀 I’m interested in Developing the Web Apps and Web Development.
 - 🌱 I’m currently learning new Technologies...
 - 💞️ I’m looking to collaborate on any Web Development projects (FullStack Developer).
 - 📫 How to reach me rakesh11.re@gmail.com.
